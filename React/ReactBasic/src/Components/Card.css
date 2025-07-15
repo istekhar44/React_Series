@@ -1,0 +1,19 @@
+.container-class{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+    padding: 2rem;
+    
+    
+    
+}
+#image{
+    height: 9rem;
+    width: 9rem;
+    border-radius: 50%;
+    
+
+}
